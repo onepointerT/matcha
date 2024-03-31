@@ -1,0 +1,36 @@
+[submodule "node"]
+	path = node
+	url = https://github.com/onepointerT/node.git
+	branch = v9.x
+[submodule "coffeescript"]
+	path = coffeescript
+	url = https://github.com/onepointerT/coffeescript.git
+	branch = v1.x
+[submodule "cacao"]
+	path = cacao
+	url = https://github.com/onepointerT/cacao.git
+[submodule "vala"]
+	path = vala
+	url = https://github.com/GNOME/vala.git
+	branch = 0.56
+[submodule "crystal"]
+	path = crystal
+	url = https://github.com/crystal-lang/crystal.git
+[submodule "pyjade"]
+	path = pyjade
+	url = https://github.com/onepointerT/pyjade.git
+[submodule "jinja"]
+	path = jinja
+	url = https://github.com/onepointerT/jinja.git
+[submodule "yargs"]
+	path = yargs
+	url = https://github.com/yargs/yargs.git
+	branch = v15.4.0
+[submodule "mochajs"]
+	path = mochajs
+	url = https://github.com/onepointerT/mocha.git
+	branch = v7.1.2
+[submodule "nopt"]
+	path = nopt
+	url = https://github.com/onepointerT/nopt.git
+	branch = v3.x.x
