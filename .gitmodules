@@ -34,3 +34,7 @@
 	path = nopt
 	url = https://github.com/onepointerT/nopt.git
 	branch = v3.x.x
+[submodule "istanbul"]
+	path = istanbul
+	url = https://github.com/onepointerT/istanbul.git
+	branch = harmony
